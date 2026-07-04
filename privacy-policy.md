@@ -11,7 +11,6 @@ Checked Today may store the following app data locally:
 - Reminder names and optional reminder details you create.
 - Reminder schedules, reset times, notification settings, colors, and icons.
 - Progress and completion logs, including dates and times.
-- Purchase unlock state reported by the app store so Pro features can be enabled.
 
 ## Data collection and sharing
 
@@ -25,11 +24,11 @@ Checked Today uses Android notification and widget features to show reminders yo
 
 ## Purchases
 
-Purchases are processed by the app store. The store may provide Checked Today with purchase status so the app can unlock Pro features. Checked Today does not receive or store your payment card details.
+Checked Today is free-only for this release and does not offer in-app purchases.
 
 ## Backup, retention, and deletion
 
-Checked Today disables Android app-data backup and device-transfer extraction for local reminder data. Deleting the app removes local reminder data from the device. App-store purchase records remain with the store account and may be restored through the app store.
+Checked Today disables Android app-data backup and device-transfer extraction for local reminder data. Deleting the app removes local reminder data from the device.
 
 ## Contact
 
