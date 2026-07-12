@@ -22,6 +22,10 @@ Checked Today does not sell personal data. Checked Today does not share your rem
 
 Checked Today uses Android notification and widget features to show reminders you create. These features run from data stored locally on your device.
 
+## App updates
+
+Checked Today can ask Google Play whether a newer app version is available. Google Play may process device metadata, the installed app version, and installed app modules to answer that request under Google's terms. Reminder names, schedules, progress, and completion logs are not included in update checks.
+
 ## Purchases
 
 Checked Today is free-only for this release and does not offer in-app purchases.
@@ -32,6 +36,8 @@ Checked Today disables Android app-data backup and device-transfer extraction fo
 
 ## Contact
 
-For privacy questions or support, use the developer contact details listed on Checked Today's app store page.
+For privacy questions or support, contact us through the public legal/support issue tracker: https://github.com/NathanZane/checked-today-legal/issues
+
+If an app store listing provides an additional developer contact email, you can use that contact method as well.
 
 This page applies to Checked Today. It should be kept consistent with the app's Data safety disclosures and store listing.
